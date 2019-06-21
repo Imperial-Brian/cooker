@@ -1,0 +1,28 @@
+<style type="text/css">
+.game {
+    position: absolute;
+    background-image: url(pics/homefade.png); 
+    background-repeat: no-repeat; 
+    width: 800px;
+    height: 600px;
+    overflow: hidden;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.game h1{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.game p{
+    padding-left: 30px;
+}
+.game form{
+    padding-left: 30px;
+}
+.game img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
